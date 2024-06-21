@@ -9,7 +9,7 @@ local NewLifeUI = loadstring(game:HttpGet("https://pastebin.com/raw/iaaKBLy4"))(
 ## Adding The Themes
 ```lua
 local selectedTheme = "Black"
---Theres Two Themes Black & Ocean--
+--Theres Two Themes Black & Sky--
 ```
 
 ## Creating The Window
